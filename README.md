@@ -1,2 +1,4 @@
-# Intro-to-Computer-Science-Programs-cpp-
-These are the programs I wrote in my freshman year of high school. They were really simple C++ programs that my teacher assigned to us. I was more used to Java around this time and hadn't really touched C++ in a long time, so this code isn't written the best, but hopefully it will help someone.
+# About This Repository
+These are the programs I wrote in my freshman year of high school. They were really simple C++ programs that my teacher assigned to us. I was more used to Java around this since I had not really explored much of C++, so this code isn't written the best. You shouldn't really use it as an example of what to do when you're writing code, but hopefully it will help someone. Sadly, a lot of Intro to CS classes teach bad practices and things you shouldn't do for the sake of simplicity. At the time, no one told us about why you shouldn't use namespaces. I realized over the summer of that year when I decided to take C++ more seriously that I realized all the bad practices I had used in this code. Still, I might push out some other C++ projects with better programming practicies that I picked up later on. 
+
+## These programs were written in the 2016 - 2017 school year. 
