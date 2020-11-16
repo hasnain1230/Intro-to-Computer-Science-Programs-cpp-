@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Remove .idea present in some IDEs
+.idea/
